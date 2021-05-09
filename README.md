@@ -34,6 +34,6 @@ Below table will help us to the see the data and their classificaiton and also h
 
 
 ## Summary:
-There are total 532 tradeable crypto's which are classified into 4 categories, based each categories we can analyse the performance of each crypto within their class and recommoned to the clients.
+There are total 532 tradeable crypto's which are classified into 4 categories, each crypto within their class can be analyzed, compared with the other to give the performance ratings and recommoned to the clients.
 
 
